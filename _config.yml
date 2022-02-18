@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+title: TITLE
+tagline: TAGLINE
+author: >-
+    AUTHOR 1,
+    AUTHOR 2
+show_paper: true
+show_slides: true
+show_video: true
+paper_url: ./paper/main.pdf
+slides_url: ./slides/docs/index.html
+video_url: 
